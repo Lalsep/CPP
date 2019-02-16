@@ -22,7 +22,7 @@ int main()
         std::cout << "co więcej, wynik jest liczbą float x = ";
         x = a/10.0;
         std::cout << x << std::endl;
-        std::cout << "a teraz pomóżmy liczbę x przez 4 \n";
+        std::cout << "a teraz pomnóżmy liczbę x przez 4 \n";
         x = 4.0*x;
         std::cout << "wynik mnożenia 4*x = " << x << std::endl;
         
