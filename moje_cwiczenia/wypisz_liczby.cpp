@@ -1,18 +1,6 @@
 #include <iostream>
 
-bool liczba_piewsza(int x)
-{
-    if (x == 1)
-        return true;
-    for (int i = 2; i < x ; ++i)
-    {
-        if (x%i == 0)
-            return false;
-        
-    }
-    return true;
-    
-}
+// liczby podzielne przez 3 z zakresu do 25 do 100
 
 int main()
 {
