@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "Moją ulubioną powieścią jest \"Potop\""<<endl;
+    cout << "Moją ulubioną powieścią jest 'Potop'"<< endl;
     
     
     
