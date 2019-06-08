@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
@@ -7,14 +8,14 @@ float a = 2;
 float b = 3;
 float wynik = 2.34;
 
-std::cout << "wynik = " << wynik << std::endl;
+cout << "wynik = " << wynik << endl;
 
 wynik = b/a;
 
-std::cout << "wartości zmiennych a = " << a << ",    b= " << b  << std::endl;
-std::cout << "wynik = b/a = " << wynik << std::endl;
+cout << "wartości zmiennych a = " << a << ",    b= " << b  << endl;
+cout << "wynik = b/a = " << wynik << endl;
 
-std::cout << "\n";
+cout << "\n";
 
 	return 0;
 }

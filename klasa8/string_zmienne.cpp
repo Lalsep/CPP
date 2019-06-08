@@ -12,8 +12,12 @@ std::cout << "Witaj ,  "  << imie << "!!" << std::endl;
 std::cout << "ile masz lat? " << std:: endl;
 std::cin >> wiek;
 std::cout << "O!!,  "<< imie << ",  Masz  " << wiek << "  lat!  \n";
+
+
 if (wiek>=18){
 	std::cout << imie << " ,  jesteś dorosły \n";
+	if (wiek>=90)
+		std::cout << "piekny wiek, gratulacje !!\n";
 
 }
 else {
