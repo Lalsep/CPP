@@ -18,7 +18,8 @@ int function(int x, bool a)
 
 int main()
 {
-
+/*to jest komentarz
+w dwóch liniach*/
     int x;
     bool a = 0;
     std::cout << "podaj liczbę x = ";
