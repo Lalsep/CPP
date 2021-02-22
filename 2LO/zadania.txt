@@ -1,0 +1,6 @@
+Zadanie 1. Napisz program, który przeliczy podaną przez ciebie wartosc temperatury w stopniach Celsjusza na wartość w stopniach Fhrenheita.
+
+
+Zadanie 2. Napisz program, który zapyta o twoja miesieczną pensję i wyliczy ile zarabiasz rocznie
+
+Zadanie 3. Narysuj choinkę z gwiazdek.
