@@ -1,4 +1,7 @@
 [Dolphin]
-Timestamp=2020,2,17,10,32,9
+HeaderColumnWidths=542,72,115
+SortOrder=1
+SortRole=modificationtime
+Timestamp=2020,5,11,21,38,25
 Version=4
 ViewMode=1
