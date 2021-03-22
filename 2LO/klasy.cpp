@@ -13,4 +13,6 @@ f(&x);
 std::cout << x << '\n';
 
 return 0;
+
+// aby przekazać wartość zmiennej globalnie używamy * oraz &
 }

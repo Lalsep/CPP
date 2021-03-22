@@ -12,9 +12,9 @@ int main()
 	for (int i = 0; i < n; ++i)
 	{
 
-// zmienna lokalna
-	static int suma = 0.0;
-// zmienna lokalna
+		// zmienna lokalna
+		static int suma = 0.0;
+		// zmienna lokalna
 		int x;
 		cin >> x;
 		suma += x;
@@ -25,12 +25,6 @@ int main()
 
 
 // cout << suma;
-
-
-
-
-
-
 
 	return 0;
 }

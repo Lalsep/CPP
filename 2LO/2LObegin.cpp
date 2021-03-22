@@ -1,16 +1,18 @@
 #include <iostream>
-
+using namespace std;
 int main()
 {
 
-int a;
-std::cout << "podaj wartość zmiennej a ";
-std::cin >> a;
-float x = 2.0 + a/2.0;
+float r, pole;
+const float pi = 3.1415926536;
+cout << "podaj promien kuli  r " << endl;
+cin >> r;
 
-std::cout << "zmienna x = " << x << "\n";
+pole = 4*pi*r*r;
 
-return 0;
+cout <<"Pole kuli o promieniu r = " << r << "  wynosi " << pole << endl;
 
 
+
+	return 0;
 }

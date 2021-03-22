@@ -11,7 +11,14 @@ int suma = 0;
 	suma += i;
 	cout << "dla i = " << i << "  suma =  "<< suma << endl;
 	if (i%7 == 0)
-		{break;}
+		{
+			cout << "na tym konczymy pętle"<< endl;
+			break;
+
+		}
+	// else{
+	// }
+		cout <<"pętla wykonuje się dalej" << endl;
 
 		}
 
