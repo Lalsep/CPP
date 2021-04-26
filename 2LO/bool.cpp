@@ -6,7 +6,7 @@ int main()
 
 bool a,b,c;
 
-a=1;
+a = 1;
 b = 0;
 c = a and b;
 cout << "iloczyn logiczny a and b ma wartość  " << c << endl; 

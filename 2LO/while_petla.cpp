@@ -19,7 +19,7 @@ cin >> x;
 	}
 
 
-cout << "werszcie podałeś poprawną liczbę x = " << x << endl;
+cout << "wreszcie podałeś poprawną liczbę x = " << x << endl;
 
 return 0;
 }
