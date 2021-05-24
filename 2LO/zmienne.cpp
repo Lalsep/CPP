@@ -1,15 +1,22 @@
 #include <iostream>
-
+using namespace std;
 int main()
 {
 
-int a, b = 4, c;
-a = 5;
-c = a+b;
+int a, b, c;
+// float c;
 
-std::cout << "a =" << a << std::endl;
-std::cout << "b = " << b << std::endl;
-std::cout << "c = " << c << std::endl;
+cout <<"podaj a ";
+cin >> a;
+cout << "podaj b ";
+cin >> b;
+
+c = 1.0*a/b;
+
+cout << "iloraz a/b = " << c << endl;
+
+
+
 
 
 
